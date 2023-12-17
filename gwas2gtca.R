@@ -2,7 +2,7 @@ library(dplyr)
 library(purrr)
 library(data.table)
 library(GenomicRanges)
-library(liftOver)
+library(rtracklayer)
 
 args = commandArgs(trailingOnly=TRUE)
 
