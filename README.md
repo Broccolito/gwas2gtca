@@ -22,6 +22,6 @@ conda activate gwas2gcta
 ### Example
 
 ```bash
-Rscript gwas2gcta.R example_gwas.txt CHROM POS_b37 HG38 ALT REF POOLED_ALT_AF EFFECT_SIZE SE N test_output
+Rscript gwas2gcta.R example_gwas.txt CHROM POS_b37 HG37 ALT REF POOLED_ALT_AF EFFECT_SIZE SE N test_output
 ```
 
